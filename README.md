@@ -1,1 +1,1 @@
-# eLINK
+# EchoDao governance token

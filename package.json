@@ -1,19 +1,19 @@
 {
-  "name": "tLINK-protocol",
+  "name": "EchoDao",
   "version": "0.0.1",
-  "description": "eLINK protocol smart contracts on Ethereum.",
+  "description": "Collateralize BTC on BSC",
   "keywords": [
-    "ethereum",
+    "bsc",
     "smart-contracts",
     "solidity",
-    "tLINK"
+    "echodao"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SavageryOrZen/eLINK-protocol.git"
+    "url": "git+https://github.com/EchoDao-BSC/echo-SmartContracts.git"
   },
   "license": "ISC",
-  "author": "horaciorafaelg30@gmail.com",
+  "author": "dairoku.masanori@echodao.com",
   "scripts": {
     "precommit": "./scripts/pre-commit.sh",
     "coverage": "npx frg-coverage",
